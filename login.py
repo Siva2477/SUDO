@@ -19,3 +19,4 @@ def welcome():
         'endpoints': ['/', '/ping', '/debug', '/debug/ui']
     }
 
+print("Hello World!")
